@@ -13,3 +13,14 @@ The dashboard shows the number of asbestos abatement projects at school building
 * Do schools with less funding in the district tend to have more linear (and square) footage of asbestos described in these projects?
 * Is the number and severity of asbestos abatement projects planned in the district increasing or decreasing over time?
 * Do schools that opened in earlier years have more projects or more severe projects?
+
+## Data
+
+* __school-district-asbestos-download-12-29.csv__ - Downloaded from "Download Data" on the Office of the City Controller's [dashboard](https://controller.phila.gov/philadelphia-audits/interactive-asbestos-dashboard/#/) on 12/29/21. For information about this data, see the dashboard's [companion repo](https://github.com/PhilaController/asbestos-dashboard-data).
+* __geocoded_addresses.csv__ - [File](https://github.com/PhilaController/asbestos-dashboard-data/blob/main/data/interim/geocoded_addresses.xlsx) containing facility address, latitude, longitude, and stress address for school buildings from the dashboard's companion repo.
+* __schools.csv__ - Information about schools compiled from files in dashboard's companion repo.
+* __district_school_budgets.csv__ - Budget information for schools for the 2021-2022 school year. Obtained from [PDF](https://cdn.philasd.org/offices/budget/FY22_School_Budget_Book.pdf) published on School District of Philadelphia website.
+
+## Usage
+
+To create the CSV files underlying the visualizations in this blog post, run the cells in asbestos_abatement.ipynb.
