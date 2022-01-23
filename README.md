@@ -24,7 +24,7 @@ The dashboard shows the number of asbestos abatement projects at school building
 
 ## Usage
 
-To create the CSV files underlying the visualizations in this blog post, run the cells in asbestos_abatement.ipynb.
+To create the CSV files underlying the visualizations in [this blog post](https://jennabellassai.github.io/asbestos-projects-in-the-philadelphia-school-district), run the cells in asbestos_abatement.ipynb.
 
 ## Output
 * __asbestos_lf_per_school.csv__ - Output file containing the following:
