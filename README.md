@@ -1,7 +1,7 @@
 # asbestos-abatement-in-philadelphia-schools
 Repo for exploring data from the Philadelphia City Controller's school district asbestos dashboard.
 
-This repo contains the Jupyter notebook and data sources used to develop the visualizations in this blog post.
+This repo contains the Jupyter notebook and data sources used to develop the visualizations in [this blog post](https://jennabellassai.github.io/asbestos-projects-in-the-philadelphia-school-district).
 
 ## Background
 
