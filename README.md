@@ -17,7 +17,7 @@ The dashboard shows the number of asbestos abatement projects at school building
 
 ## Data
 
-* __school-district-asbestos-download-12-29.csv__ - Downloaded from "Download Data" on the Office of the City Controller's [dashboard](https://controller.phila.gov/philadelphia-audits/interactive-asbestos-dashboard/#/) on 12/29/21. For information about this data, see the dashboard's [companion repo](https://github.com/PhilaController/asbestos-dashboard-data).
+* __school-district-asbestos-download-1-23.csv__ - Downloaded from "Download Data" on the Office of the City Controller's [dashboard](https://controller.phila.gov/philadelphia-audits/interactive-asbestos-dashboard/#/) on 01/23/22. For information about this data, see the dashboard's [companion repo](https://github.com/PhilaController/asbestos-dashboard-data).
 * __geocoded_addresses.csv__ - [File](https://github.com/PhilaController/asbestos-dashboard-data/blob/main/data/interim/geocoded_addresses.xlsx) containing facility address, latitude, longitude, and stress address for school buildings from the dashboard's companion repo.
 * __schools.csv__ - Information about schools compiled from files in dashboard's companion repo.
 * __district_school_budgets.csv__ - Budget information for schools for the 2021-2022 school year. Obtained from [PDF](https://cdn.philasd.org/offices/budget/FY22_School_Budget_Book.pdf) published on School District of Philadelphia website.
